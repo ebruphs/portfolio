@@ -1,38 +1,24 @@
-.contacts h1{
-    margin-top: 70px;
+.contacts{
     text-align: center;
+}
+
+.contacts h1{
+    margin-top: 100px;
     text-transform: uppercase;
     font-size: 18px;
 }
-.contacts .contact-icons{
-    transform: translate(-50%, -50%);
-    width: 100%;
-    margin: 0 auto;
-    position: relative;
-    left: 30%;
-}
 .contacts img{
-    width: 5%;
-    height: 10%;
-    margin: 2%;
-    margin-top: 100px;
-} 
-.contacts h1{
-    margin-top: 70px;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 18px;
-}
-.contacts .contact-icons{
-    transform: translate(-50%, -50%);
-    width: 100%;
     margin: 0 auto;
-    position: relative;
-    left: 30%;
+    width: 50px;
+    height: 50px;
+    padding: 2%;
 }
-.contacts img{
-    width: 5%;
-    height: 10%;
-    margin: 2%;
-    margin-top: 100px;
+@media(max-width: 660px){
+    .contacts h1{
+        font-size: 15px;
+    }
+    .contacts img{
+        width: 30px;
+        height: 30px;
+    }
 }
