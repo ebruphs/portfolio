@@ -1,0 +1,28 @@
+.menu-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-content: center;
+    flex-wrap: wrap;
+    height: 15vh;
+    background: rgba(202, 230, 230, 0.185);
+ }
+ .header-links{
+     padding: 2px;
+     padding-right: 20px;
+     letter-spacing: 2px;
+     font-family: 'Josefin Sans', Tahoma, sans-serif;
+     color: #888;
+     font-size: 30px;
+     text-decoration: none;
+ }
+ .header-links:hover{
+     color: rgba(255, 99, 71, 0.74);
+ }
+
+@media(max-width: 600px){
+    .header-links{
+        font-size: 20px;
+    }
+}
+
