@@ -28,7 +28,7 @@ const PROJECTS = [
     
     {
         id: 4,
-        title: 'Guess game',
+        title: 'Guess Game',
         description: 'Evens or odds is a react-redux game where a user would guess if the next card that would be drawn from the deck of cards is even or odd.',
         link: 'https://ebruphs.github.io/guessgame/',
         image: project_4
