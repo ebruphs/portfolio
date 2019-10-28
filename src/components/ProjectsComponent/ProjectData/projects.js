@@ -8,7 +8,7 @@ const PROJECTS = [
         id: 1,
         title: 'Top Tracks',
         description: 'A react.js app that displays your favourite  artist top album, followers and genres and likewise play short minutes tracks for you.',
-        link: 'https://ebruphs-b.github.io/toptracks/',
+        link: 'https://ebruphs.github.io/toptracks/',
         image: project_1
     },
     {
@@ -30,7 +30,7 @@ const PROJECTS = [
         id: 4,
         title: 'Guess Game',
         description: 'Evens or odds is a react-redux game where a user would guess if the next card that would be drawn from the deck of cards is even or odd.',
-        link: 'https://ebruphs-b.github.io/guessgame/',
+        link: 'https://ebruphs.github.io/guessgame/',
         image: project_4
     }
 ];
