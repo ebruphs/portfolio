@@ -37182,7 +37182,7 @@ var PROJECTS = [{
   id: 1,
   title: 'Top Tracks',
   description: 'A react.js app that displays your favourite  artist top album, followers and genres and likewise play short minutes tracks for you.',
-  link: 'https://ebruphs-b.github.io/toptracks/',
+  link: 'https://ebruphs.github.io/toptracks/',
   image: _project_.default
 }, {
   id: 2,
@@ -37200,7 +37200,7 @@ var PROJECTS = [{
   id: 4,
   title: 'Guess Game',
   description: 'Evens or odds is a react-redux game where a user would guess if the next card that would be drawn from the deck of cards is even or odd.',
-  link: 'https://ebruphs-b.github.io/guessgame/',
+  link: 'https://ebruphs.github.io/guessgame/',
   image: _project_4.default
 }];
 var _default = PROJECTS;
@@ -39864,7 +39864,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "51297" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63633" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
