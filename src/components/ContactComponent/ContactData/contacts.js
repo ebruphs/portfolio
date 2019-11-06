@@ -22,7 +22,7 @@ const CONTACTS = [
     },
     {
         id: 4,
-        link: 'mailto: noble865@gmail.com',
+        link: 'mailto: n.ebru32@gmail.com.com',
         image: emailIcon
     },
     {
