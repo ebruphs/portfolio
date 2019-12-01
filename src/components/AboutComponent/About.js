@@ -23,8 +23,8 @@ class About extends Component{
                         this.state.displayBio ? (
                             <div>
                                 <p>I code everyday and I am constantly looking forward to make new projects. 
-                                    I believe in hardwork, patience and persistency. I have come this far and exploring more of web programming/Javascript and programming generally.
-                                    It is my utmost hope one day what I have chosen to believe in will pay me off.
+                                   I make beautiful and resposive web applications with the most powerful technology that power the web.
+                                   I look forward to work with you.
                                 </p>
                                 <button onClick={this.toggleDisplayBio}>Show less</button>
                             </div>
