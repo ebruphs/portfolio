@@ -37139,7 +37139,7 @@ function (_Component) {
         className: 'profile-img'
       }), _react.default.createElement("div", {
         className: 'description'
-      }, _react.default.createElement("p", null, "My name is Ben Ebruphihor.I am self-taught web developer."), this.state.displayBio ? _react.default.createElement("div", null, _react.default.createElement("p", null, "I code everyday and I am constantly looking forward to make new projects. I believe in hardwork, patience and persistency. I have come this far and exploring more of web programming/Javascript and programming generally. It is my utmost hope one day what I have chosen to believe in will pay me off."), _react.default.createElement("button", {
+      }, _react.default.createElement("p", null, "My name is Ben Ebruphihor.I am self-taught web developer."), this.state.displayBio ? _react.default.createElement("div", null, _react.default.createElement("p", null, "I code everyday and I am constantly looking forward to make new projects. I make beautiful and resposive web applications with the most powerful technology that power the web. I look forward to work with you."), _react.default.createElement("button", {
         onClick: this.toggleDisplayBio
       }, "Show less")) : _react.default.createElement("div", null, _react.default.createElement("button", {
         onClick: this.toggleDisplayBio
@@ -39622,7 +39622,7 @@ var CONTACTS = [{
   image: _linkedinIcon.default
 }, {
   id: 4,
-  link: 'mailto: noble865@gmail.com',
+  link: 'mailto: n.ebru32@gmail.com',
   image: _emailIcon.default
 }, {
   id: 5,
@@ -39864,7 +39864,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63633" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49403" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
